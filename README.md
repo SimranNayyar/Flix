@@ -11,9 +11,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [X] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+Hi, I was having some issues with the gif again,so I have also put a youtube link with the video once again, I am not sure what the issue is. I will be mentioning this to the TAs in tomorrow's session.
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+Youtube video: https://youtu.be/H-spajBQi5Q
 
 ### Notes
 The posters in my grid layout are very small and I am not sure what the issue is because I double checked my code with the video and it's the exact same. I also asked for help on the Slack and no one replied there either.
